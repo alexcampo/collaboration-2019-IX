@@ -1,6 +1,11 @@
 body{
     background: #BDBDBD;
 }
+
+.navbar-brand{
+  color: white;
+}
+
 .bd-footer{
     text-align: left;
     font-size: .875rem;
@@ -19,3 +24,4 @@ body{
 .bd-footer-links li {
     display: inline-block;
 }
+
