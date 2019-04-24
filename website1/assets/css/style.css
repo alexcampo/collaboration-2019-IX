@@ -1,6 +1,27 @@
 body{
     background: #BDBDBD;
 }
+
 .navbar-brand{
   color: white;
 }
+
+.bd-footer{
+    text-align: left;
+    font-size: .875rem;
+}
+.text-muted{
+    color: #6c757d!important;
+}
+.bd-footer a {
+    font-weight: 600;
+    color: #495057;
+}
+.bd-footer-links {
+    padding-left: 0;
+    margin-bottom: 1rem;
+}
+.bd-footer-links li {
+    display: inline-block;
+}
+
